@@ -1,0 +1,9 @@
+Manually install
+
+Veracrypt   : https://www.veracrypt.fr
+klavaro     :
+
+Virtualbox  : Add contrib to /etc/apt/sources.list and do apt install virtualbox
+docker      : scripted
+Minkube
+kubectl
