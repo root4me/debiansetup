@@ -5,6 +5,9 @@ klavaro     :
 
 Virtualbox  : Add contrib to /etc/apt/sources.list and do apt install virtualbox
 docker      : scripted
-mongodb     :
-kubectl
-Minikube
+mongodb     : scripted
+kubectl     : https://kubernetes.io/docs/tasks/tools/install-kubectl/
+Minikube    :
+etcher      : https://etcher.io/
+yarn        : https://yarnpkg.com/en/docs/install
+openscad    : openscad is not availabe in buster repo. Add 'stable' to /etc/apt/sources.list . Update /etc/apt/preferences and then apt install
